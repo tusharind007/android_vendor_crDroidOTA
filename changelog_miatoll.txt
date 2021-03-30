@@ -1,33 +1,29 @@
-Highlights & Device Specific Changes:
-===================================
+===== 28 March, 2021 =====
+     
+• Address more denials
+• Added Fluid lockscreen clock
+• Fixed Weather on Lockscreen
+• Added QS tile styles (crdroid > UI)
+• Fix up ext4 build from 4.14.227
+• Fix mic issues in apps like WhatsApp
+• Unpin camera app to reduce RAM usage
+• Improved SQLite performance system-wide
+• Updated to Latest Etherious-kernel 4.4.227 tag
+• Enabled 64bit dex2oat to improve app performanc
+• Added system-wide App lock customization (Security > App locker)
+• Misc fixes and overall improvements
 
-Build type: Alpha
-Device: MiAtoll
-Device maintainer: henloboi (Jamie Ho)
+===== 11 March, 2021 =====
 
-===== 21th March 2021 =====
-
- - March Security Patch
- - Remove Miui Camera to fix 3rd party apps camera 
- - Enable smart pixels   
-
-===== 10th Feburary 2021 =====
-
- - Feburary Security Patch
- - Fixed WFD 
- - Add MiCamera 
- - Changed maintainer 
-
-===== 23th January 2021 =====
-
- - January Security Patch
- - January Redfin FP
- - Improved System Stability
- - Fixed Bluetooth Audio
-
-===== 18th December 2020 =====
-
- - Initial Build
- - Wireless Display (WFD) Broken
- - Bluetooth Audio Broken
+• Initial Build
+• Added Moto Dolby
+• March Security patch
+• Build enforcing
+• XiaomiParts included
+• Removed Mi Sound Enhancer
+• Kernel upstreamed to 4.14.223
+• Etherious Kernel by default
+• Safety net passed by default
+• Fixed VOIP call audio issues, credits @ctwoon
+• Added Prebuilt MIUI & Urynx Gcam
 

@@ -1,24 +1,24 @@
 {
-  "response": [
-    {
-        "maintainer": "Jamie Ho (henloboi)",
-        "oem": "Redmi",
-        "device": "Redmi 9s series (miatoll)",
-        "filename": "crDroidAndroid-11.0-20210320-miatoll-v7.4.zip",
-        "download": "https://sourceforge.net/projects/crdroid/files/miatoll/7.x/crDroidAndroid-11.0-20210320-miatoll-v7.4.zip/download",
-        "timestamp": 1616221416,
-        "md5": "2253db2b64c2c034d926bcaa2ff909d6",
-        "size": 1142496807,
-        "version": "7.4",
-        "buildtype": "Alpha",
-        "forum": "https://forum.xda-developers.com/t/rom-a11-unofficial-miatoll-crdroid-7-4-alpha-release.4231617/",
-        "gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/",
-        "firmware": "",
-        "modem": "",
-        "bootloader": "",
-        "recovery": "https://files.orangefox.tech/OrangeFox-Beta/miatoll/OrangeFox-R11.0_1-Beta-miatoll.zip",
-        "paypal": "https://paypal.me/JamieHoSzeYui",
-        "telegram": "https://t.me/crdroid_miatoll"
-    }
-  ]
+	"response": [
+		{
+			"maintainer": "Tusharind007",
+			"oem": "Redmi",
+			"device": "Redmi Note 9S/Pro/Pro Max / POCO M2 Pro (miatoll)",
+			"filename": "crDroidAndroid-11.0-20210330-miatoll-v7.4-UNOFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/tushar-roms/files/crDroid/crDroidAndroid-11.0-20210330-miatoll-v7.4-UNOFFICIAL.zip/download",
+			"timestamp": 1617086400,
+			"md5": "3699ebba8e6875557a268cb1d8403315",
+			"size": 1794986650,
+			"version": "7.4",
+			"buildtype": "weekly",
+			"forum": "https://forum.xda-developers.com/t/rom-a11-unofficial-miatoll-2021-03-28-crdroid-7-4.4245669/",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://files.orangefox.tech/OrangeFox-Beta/miatoll/OrangeFox-R11.0_1-Beta-miatoll.zip",
+			"paypal": "https://paypal.me/tusharind007",
+			"telegram": "https://t.me/tusharind007"
+		}
+	]
 }
